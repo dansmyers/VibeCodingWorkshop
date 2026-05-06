@@ -1,2 +1,3 @@
-# VibeCodingWorkshop
-Coding with AI for Non-Programmers
+# Coding with AI for Complete Beginners
+
+This repository contains activities, notes, and resources for my workshop on coding with AI for those without previous coding experience.
