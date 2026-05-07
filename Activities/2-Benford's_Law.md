@@ -47,4 +47,6 @@ Then prompt:
 
 > I'd like to analyze the county level population data in this CSV file and check if it agrees with Benford's Law. The column I want to analyze is POPESTIMATE2024. Write a Python script that does that analysis using Pandas and produce a bar chart showing the fraction of occurrence of each leading digit. Ask me if you have questions.
 
-Claude should crank for a moment, then produce a script and plot showing the occurrence of each leading digit.
+Claude should crank for a moment, then produce a script and plot showing the occurrence of each leading digit. If you don't like the plot, ask it to make any required changes.
+
+Once you're happy with the results, take a look at the script. You should see some lines that look similar to the previous program. Ask Claude to explain each step of the data analysis.
