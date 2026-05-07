@@ -38,3 +38,13 @@ SUMLEV,REGION,DIVISION,STATE,COUNTY,STNAME,CTYNAME,ESTIMATESBASE2020,POPESTIMATE
 
 The first line lists the names of each field. The data is organized alphabetically by state, then by county within each state. The first line of data is the population for the entire state of Alabama, followed by the estimate for Autauga county, and so forth. The first entries on each line are some numerical encodings used by the census bureau to identify each county.
 
+
+## Analyze
+
+Go to your Claude chat. Paste the census data file into the chat window.
+
+Then prompt:
+
+> I'd like to analyze the county level population data in this CSV file and check if it agrees with Benford's Law. The column I want to analyze is POPESTIMATE2024. Write a Python script that does that analysis using Pandas and produce a bar chart showing the fraction of occurrence of each leading digit. Ask me if you have questions.
+
+Claude should crank for a moment, then produce a script and plot showing the occurrence of each leading digit.
