@@ -13,20 +13,17 @@ You can put all of the questions in the same file, one after another. Put a comm
 
 ### McChocolate Potatoes
 
-The Japanese yen currently trades for about $.0068.
+The Japanese yen currently trades for about $.0064.
 
 I'm a sucker for regional fast food items. It turns out that you ~can~ could get **chocolate fries** at [McDonald's in Japan](https://www.eater.com/2016/1/19/10790586/mcdonalds-chocolate-fries-japan) (they are officially known
 as "McChocolate Potatoes"). Are they any good? Maybe not, but they cost only 330 yen as a side item.
 
 <img src="https://cdn.vox-cdn.com/thumbor/WMJG04bu5nCmDiQ5mh0_chXelTY=/247x0:787x405/1820x1213/filters:focal(247x0:787x405):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/48592139/McDonald_s_Chocolate_Fries.0.0.jpg" width="300px" />
 
-What is the cost of a side of chocolate fries in dollars?
-
-Tip: You only need to write one line that uses a `print` statement to display the result of the calculation.
+What is the cost of a side of chocolate fries in dollars? Tip: You only need to write one line that uses a `print` statement to display the result of the calculation.
 ```
 # Cost of a side of chocolate fries in dollars
-
-print(330 * .0068)
+print(330 * .0064)
 ```
 
 ### Haiku
