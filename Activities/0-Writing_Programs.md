@@ -64,7 +64,7 @@ Tips:
 
 ### Smoots
 
-<img src="https://alum.mit.edu/sites/default/files/styles/article_desktop/public/images/SMOOT.jpg?itok=jMC7rC_T" width="300px" />
+<img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/200809/20120822153620-1_0.jpg?itok=ojv_RcSG" width="300px" />
 
 Use all of your powers to answer the following question.
 
@@ -78,16 +78,6 @@ Tips:
 
 - Do the entire calculation in one expression. Use a multiplication to get the number of feet, then divide by 5.5833 to get units of Smoots.
 - One Smoot is about 5.5833 feet and there are 5280 feet in a mile.
-
-### Cricket Protein Powder
-
-<img src="https://cdn.shopify.com/s/files/1/0904/3248/products/chocolate_front_1408x1408.jpg?v=1566244530" width="300px" />
-
-Entomophagy is the wave of the future. Crickets are a naturally renewable (albeit noisy) resource and contain proportionally more protein than chicken or beef.
-
-Through a totally unscientific research process, I have learned that the average cricket weighs .50 grams and consists of about 60% protein.
-
-Consider a bodybuilder who wants to consume 200 grams of protein per day in order to get huge. How many crickets are required to produce that amount?
 
 
 ### Beards
