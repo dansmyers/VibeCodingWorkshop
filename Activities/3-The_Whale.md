@@ -1,7 +1,7 @@
 
 # Zipf's Law and *The Whale*
 
-<img src="http://www.harkavagrant.com/history/moby.png" width="400px" />
+<img src="http://www.harkavagrant.com/history/moby.png" width="300px" />
 
 Kate Beaton, *Hark! A Vagrant* [66](http://www.harkavagrant.com/index.php?id=66)
 
