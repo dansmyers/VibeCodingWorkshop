@@ -31,7 +31,7 @@ print(330 * .0068)
 
 ### Haiku
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Kobayashi_Issa-Portrait.jpg" width="300px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Kobayashi_Issa-Portrait.jpg" width="150px" />
 
 Write a program to print the following haiku by the poet Kobayashi Issa, famous for his works focusing on insects and other small creatures.
 
