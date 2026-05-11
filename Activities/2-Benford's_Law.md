@@ -25,7 +25,7 @@ County-level population estimates are availble on the Census Bureau's web site:
 
 https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html
 
-Scroll down to find the file `co-est2024-alldata.csv` near the bottom of the page and download it. If you open the file, you'll see that it's another example of the CSV format:
+Scroll down to find the file `co-est2024-alldata.csv` near the bottom of the page and download it. If you open the file, you'll see that it's another example of the CSV format. The first few columns and rows look like the following:
 
 ```
 SUMLEV,REGION,DIVISION,STATE,COUNTY,STNAME,CTYNAME,ESTIMATESBASE2020,POPESTIMATE2020,POPESTIMATE2021, POPESTIMATE2022
