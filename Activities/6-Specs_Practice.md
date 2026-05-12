@@ -37,7 +37,7 @@ Tip: Start by chatting with Claude about options for retrieving data. There is a
 
 ### Nim
 
-Nim is a classic mathematical strategy game, the extension of the 21 stone game we looked at earlier. There are *k* piles of stones, each containing *n* stones. On her turn, a player selects *one pile* and removes as many stones as she wants from it. The player who takes the last stone is the loser.
+Nim is a classic mathematical strategy game. There are *k* piles of stones, each containing *n* stones. On her turn, a player selects *one pile* and removes as many stones as she wants from it. The player who takes the last stone is the loser.
 
 Write a visual Nim game as a single web page.
 
