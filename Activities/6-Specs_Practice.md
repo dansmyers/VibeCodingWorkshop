@@ -16,6 +16,15 @@ Work through the ideas below. Tell Claude to build each project as a **single fr
 
 ## Ideas
 
+### Notakto
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Three-board_Notakto.svg/500px-Three-board_Notakto.svg.png" width="300px" />
+
+*Example from Wikipedia*
+
+Like tic-tac-toe but both players make only X's. The first player to complete three in a row (horizontally, vertically, or diagonally) loses.
+
+Team up with your neighbor and play a few games.
+
 ### Minesweeper
 
 Build the classic Minesweeper game as a front-end web page. Think about what controls you should have for things like the size of the board and the density of mines.
