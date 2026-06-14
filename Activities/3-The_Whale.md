@@ -15,7 +15,7 @@ Let’s vibe out a program that can analyze a text — we're going to use *Moby 
 
 Find the text that I sent you by e-mail and copy it into your Claude Code working directory that we just made.
 
-We could do this problem by uploading the text to chat, like we did for the previous data analysis ones, but that woiuld be wasteful, since we'd be burning tokens to read the entire text of *Moby Dick*. Claude Code only needs to write *the Python program* to read the text, it doesn't need to process the text itself. This is a better use of tokens, since we can leave the large text file in the working directory and only require Claude to write the relatively short program.
+We could do this problem by uploading the text to chat, like we did for the previous data analysis ones, but that would be wasteful, since we'd be burning tokens to read the entire text of *Moby Dick*. Claude Code only needs to write *the Python program* to read the text, it doesn't need to process the text itself. This is a better use of tokens, since we can leave the large text file in the working directory and only require Claude to write the relatively short program.
 
 ## Start by chatting
 
